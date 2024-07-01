@@ -1,1 +1,4 @@
-# skripsi_082011633086
+### Source Code Skripsi
+### "KLASTERISASI BERBASIS K-MODES PADA PASIEN TUBERKULOSIS DI JAWA TIMUR"
+#### Nama: Mukhamad Ikhsanudin
+#### NIM : 082011633086
